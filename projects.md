@@ -4,8 +4,6 @@ title: Research Projects
 permalink: /projects/
 ---
 
-# Prominent Research Projects
-
 ## Reconstruction, Characterization, and Diagnosis of Suspicious Objects or Unusual Events in Medical Images (CT, DS, MG) and Remote Sensing
 **Institution:** Instituto Politécnico Nacional (IPN)
 
@@ -55,7 +53,7 @@ permalink: /projects/
 - Experimental design to evaluate the correlation between components of color spaces and their relationship with feature extraction in satellite images.
 - Design and creation of software and methodology documentation.
 
-# Further Research Projects under institutional grant (IPN)
+## Further Research Projects under institutional grant (IPN)
 
 <table>
   {% for row in site.data.projects %}

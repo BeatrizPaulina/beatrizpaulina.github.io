@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Peer Reviews
+title: Verified Peer Reviews
 permalink: /reviews/
 ---
 
-# Verified Peer Reviews
-
-These Verified Peer Reviews represent the records of reviews conducted for journals according to Web of Science (WoS) standards. You can verify these reviews by visiting the following link: [link to WoS profile](https://www.webofscience.com/wos/author/record/R-7254-2019).
+The following table presents the records of reviews conducted for journals according to the Web of Science (WoS) standards. You can verify this information by visiting the following link: [link to WoS profile](https://www.webofscience.com/wos/author/record/R-7254-2019).
 
 <table>
   {% for row in site.data.reviews %}
