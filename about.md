@@ -18,6 +18,8 @@ In addition to my research and academic work, I also serve as a lecturer in subj
 
 My areas of expertise include digital image analysis and processing, machine learning, parallel computing, spectroscopy, and remote sensing, among others. I have dedicated my career to exploring new frontiers in these fields and applying innovative solutions to complex problems, with the aim of making a positive impact on society and industry.
 
+As a member of the National Researchers System (SNI - I) of the National Council of Humanities, Sciences, and Technologies of Mexico (CONAHCYT), I am committed to advancing research and innovation in my field and contributing to the development of knowledge and technology at the national level.
+
 My achievements, including recognitions for outstanding results in teacher evaluations and national awards for academic excellence, are a testament to my dedication and commitment to excellence in everything I do.
 
 I look forward to collaborating with you in the near future and continuing to contribute to the advancement of science and technology.
