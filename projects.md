@@ -18,7 +18,7 @@ permalink: /projects/
 - Co-supervisor of undergraduate theses (Bachelor's Degree in Computer Engineering).
 - Co-supervisor of postgraduate theses (Master of Science in Microelectronics Engineering and Ph. D. in Communications and Electronics).
 
-
+---
 
 ## Research and Development of a Pipeline Monitoring System
 **Collaborating Institutions:** Instituto Politécnico Nacional (IPN) in collaboration with the Mexican Petroleum Institute (governmental project).
@@ -39,6 +39,8 @@ permalink: /projects/
 - Design and creation of software and methodology documentation.
 - Technical support for implementing the software in Mexican Petroleum Institute facilities.
 
+---
+
 ## Research for the Classification of Temporary Agricultural Crops in High-Resolution Images
 
 **Collaborating Institutions:** Universidad La Salle in collaboration with the Instituto Nacional de Estadística y Geografía and the Consejo Nacional de Ciencia y Tecnología, funded by the Sector Fund CONACYT - INEGI (governmental project).
@@ -52,6 +54,8 @@ permalink: /projects/
 - Design of the software module for analyzing color spaces and their impact on illumination changes for image processing.
 - Experimental design to evaluate the correlation between components of color spaces and their relationship with feature extraction in satellite images.
 - Design and creation of software and methodology documentation.
+
+---
 
 ## Further Research Projects under institutional grant (IPN)
 
