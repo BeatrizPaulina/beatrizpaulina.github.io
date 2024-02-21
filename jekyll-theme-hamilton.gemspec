@@ -3,11 +3,11 @@
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-theme-hamilton"
   spec.version       = "4.0.0"
-  spec.authors       = ["César Robles"]
-  spec.email         = ["cerobles@gmail.com"]
+  spec.authors       = ["Beatriz Paulina"]
+  spec.email         = ["bpgs1309@gmail.com"]
 
   spec.summary       = ""
-  spec.homepage      = "https://github.com/cmaroblesgs"
+  spec.homepage      = "https://github.com/BeatrizPaulina"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|LICENSE|README)!i) }

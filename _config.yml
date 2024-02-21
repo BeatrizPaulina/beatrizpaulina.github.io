@@ -1,9 +1,8 @@
-title: César Robles
+title: Beatriz Paulina
 description: A personal Blog and Portfolio.
-author: César Robles
-avatar: /imag/cmaroblesg.jpg
-email: cerobles@gmail.com
-#phone: +52 55 4145 7976
+author: Beatriz Paulina
+avatar: /imag/BPGS.png
+email: bpgs1309@gmail.com
 location: Mexico
 
 plugins:
@@ -31,19 +30,11 @@ exclude:
 
 # Jekyll SEO Tag (Optional)
 # =========================
-twitter:
-  username: cmaroblesg
-  card: summary
-logo: logo.png
-social:
-  name: César Robles
-  links:
-    - https://twitter.com/cmaroblesg
-    - https://www.linkedin.com/in/cmaroblesg/
-    - https://github.com/cmaroblesg
-    - https://www.instagram.com/cmaroblesg/
-    - https://www.facebook.com/cesarmarcoantonio.roblesgonzalez.3
-    - https://www.youracclaim.com/users/cesar-marco-antonio-robles-gonzalez/badges
-    - https://www.coursera.org/user/6e4b7bcdd6f5efdb1e93a27d3e516e92
-    - https://buymeacoffee.com/AJP601gNK
+#twitter:
+#  username: cmaroblesg
+#  card: summary
+#logo: logo.png
+#social:
+#  name: César Robles
+#  links:
 lang: en
