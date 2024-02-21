@@ -12,7 +12,7 @@ As a project leader, I successfully directed the development of the "Research an
 
 Additionally, I have contributed as a collaborator in the project "Research for the Classification of Temporary Agricultural Crops in High-Resolution Images using Intelligent Computing Techniques," funded by the CONACYT - INEGI Sector Fund (Mexico). This experience has allowed me to apply my knowledge in digital image analysis and machine learning to address real-world challenges in the agricultural sector.
 
-My involvement in the Committee for the Establishment of Standards for the review of test testimony criteria for the national EGEL+D-ICOMPU exam, as well as my contribution as a reviewer of items for this exam, reflects my commitment to continuous improvement in computational engineering education and the development of quality assessment standards.
+My involvement in the Committee for the Establishment of Standards for the review of test testimony criteria for the national EGEL+D-ICOMPU exam (Mexico), as well as my contribution as a reviewer of items for this exam, reflects my commitment to continuous improvement in computational engineering education and the development of quality assessment standards.
 
 In addition to my research and academic work, I also serve as a lecturer in subjects such as Deterministic and Stochastic Models, Systems Simulation, and Operating Systems, where I share my knowledge and experience with future professionals, thus contributing to the growth and development of the next generation of engineers.
 
