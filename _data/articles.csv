@@ -1,0 +1,20 @@
+﻿Title,Year,Source title,DOI
+Parallel semi-fragile color image watermarking authentication scheme using EXIF metadata,2023,Proceedings of SPIE - The International Society for Optical Engineering,10.1117/12.2665405
+Real-time video super-resolution reconstruction using Wavelet Transforms and Sparse Representation,2023,Proceedings of SPIE - The International Society for Optical Engineering,10.1117/12.2665401
+Despeckling of Ultrasound Images Using Block Matching and SVD in Sparse Representation,2022,Sensors,10.3390/s22145113
+Parallel implementation of a hyperspectral feature extraction method based on Gabor filter,2021,Proceedings of SPIE - The International Society for Optical Engineering,10.1117/12.2587876
+Gabor features extraction and land-cover classification of urban hyperspectral images for remote sensing applications,2021,Remote Sensing,10.3390/rs13152914
+Hyperspectral Image Super-Resolution Using Convolutional Neural Network and Wavelet Transform,2021,"2020 IEEE International Conference on Problems of Infocommunications Science and Technology, PIC S and T 2020 - Proceedings",10.1109/PICST51311.2020.9468049
+Color image self-recovery and tampering detection scheme based on fragile watermarking with high recovery capability,2021,Applied Sciences (Switzerland),10.3390/app11073187
+A color image watermarking framework for copyright protection of stereo images based on binocular just noticeable difference and LU decomposition,2021,Multimedia Tools and Applications,10.1007/s11042-020-10445-z
+Parallel color image watermarking scheme for multiple picture object based on multithreading coding,2020,Proceedings of SPIE - The International Society for Optical Engineering,10.1117/12.2556289
+An effective fragile watermarking scheme for color image tampering detection and self-recovery,2020,Signal Processing: Image Communication,10.1016/j.image.2019.115725
+Parallel artificial neural networks using wavelet-based features for classification of remote-sensing hyperspectral images,2020,Proceedings of SPIE - The International Society for Optical Engineering,10.1117/12.2556296
+Efficient dimension reduction of hyperspectral images for big data remote sensing applications,2020,Journal of Applied Remote Sensing,10.1117/1.JRS.14.032611
+Invisible watermarking framework that authenticates and prevents the visualization of anaglyph images for copyright protection,2019,Turkish Journal of Electrical Engineering and Computer Sciences,10.3906/elk-1810-138
+On the parallel classification system using hyperspectral images for remote sensing applications,2018,Proceedings of SPIE - The International Society for Optical Engineering,10.1117/12.2303666
+Parallel supervised land-cover classification system for hyperspectral and multispectral images,2018,Journal of Real-Time Image Processing,10.1007/s11554-018-0828-2
+Feature extraction scheme for a textural hyperspectral image classification using gray-scaled HSV and NDVI image features vectors fusion,2016,"2016 International Conference on Electronics, Communications and Computers, CONIELECOMP 2016",10.1109/CONIELECOMP.2016.7438573
+Parallel multilayer perceptron neural network used for hyperspectral image classification,2016,Proceedings of SPIE - The International Society for Optical Engineering,10.1117/12.2227329
+Feature extraction-selection scheme for hyperspectral image classification using fourier transform and jeffries-matusita distance,2015,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),10.1007/978-3-319-27101-9_25
+Crop classification using different color spaces and RBF neural networks,2014,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),10.1007/978-3-319-07173-2_51

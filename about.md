@@ -4,8 +4,6 @@ title: About me
 permalink: /about/
 ---
 
-# About me
-
 Hello! I am Dr. Beatriz P. García Salgado, a passionate professional in the field of communications and electronics research and development. My experience spans a wide range of projects and roles, both in academia and in collaboration with governmental and academic institutions.
 
 As a project leader, I successfully directed the development of the "Research and Development of a Pipeline Monitoring System" project, in collaboration with the Mexican Petroleum Institute, an effort that demonstrated my ability to lead multidisciplinary teams and achieve strategic objectives in high-relevance projects.
