@@ -10,7 +10,7 @@ Hello! I am Dr. Beatriz P. García Salgado, a passionate professional in the fie
 
 As a project leader, I successfully directed the development of the "Research and Development of a Pipeline Monitoring System" project, in collaboration with the Mexican Petroleum Institute, an effort that demonstrated my ability to lead multidisciplinary teams and achieve strategic objectives in high-relevance projects.
 
-Additionally, I have contributed as a collaborator in the project "Research for the Classification of Temporary Agricultural Crops in High-Resolution Images using Intelligent Computing Techniques," funded by the CONACYT - INEGI Sector Fund. This experience has allowed me to apply my knowledge in digital image analysis and machine learning to address real-world challenges in the agricultural sector.
+Additionally, I have contributed as a collaborator in the project "Research for the Classification of Temporary Agricultural Crops in High-Resolution Images using Intelligent Computing Techniques," funded by the CONACYT - INEGI Sector Fund (Mexico). This experience has allowed me to apply my knowledge in digital image analysis and machine learning to address real-world challenges in the agricultural sector.
 
 My involvement in the Committee for the Establishment of Standards for the review of test testimony criteria for the national EGEL+D-ICOMPU exam, as well as my contribution as a reviewer of items for this exam, reflects my commitment to continuous improvement in computational engineering education and the development of quality assessment standards.
 
