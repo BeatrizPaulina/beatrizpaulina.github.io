@@ -1,5 +1,7 @@
-- title: About
+- title: About me
   url: /about/
+-title: Projects
+  url: /projects/
 - title: Docs
   url: /docs/
 - title: Career

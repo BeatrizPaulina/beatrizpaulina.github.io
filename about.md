@@ -24,5 +24,5 @@ My achievements, including recognitions for outstanding results in teacher evalu
 
 I look forward to collaborating with you in the near future and continuing to contribute to the advancement of science and technology.
 
-**Specialties:** Digital Image Analysis and Processing, Image Classification, Image Segmentation, Image Super-resolution, Image Compression, Machine Learning, Parallel Computing, Hyperspectral Imagery, Ultrasound Imagery, Spectroscopy, Watermarking, Remote Sensing.
+**Specialties:** Digital Image Analysis and Processing, Image Classification, Image Segmentation, Image Super-resolution, Image Compression, Machine Learning, Parallel Computing, Hyperspectral Imagery, Ultrasound Imagery, Spectroscopy, Watermarking, Remote Sensing and signal processing.
 
